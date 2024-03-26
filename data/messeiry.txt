@@ -1,0 +1,71 @@
+Mohamed Elmesseiry
+Halifax, NS, Canada | 902-717-1516 | m.messeiry@gmail.com 
+linkedin.com/in/mohamed-elmesseiry | github.com/messeiry
+
+AI/ML/GEN.AI | MULTI-CLOUD | OBSERVABILITY | SRE | DEVOPS
+
+Lead architect and distinguished software engineer with extensive experience delivering high-quality global engineering and consultancy services to Fortune 500 companies. Specializes in designing, building, deploying, and testing scalable multi-cloud infrastructure (Redhat | VMWare | AWS)—expert in AI/ML/Gen.AI applications development—Guru in IT, network, and application services performance monitoring, observability and system integrations. 
+
+TECHNICAL SKILLS
+AI/ML and MLOps: AI TensorFlow Developer Professional | Generative AI with LLM | Facebook Prophet | Kubeflow | Pycaret | AutoML | MLflow | AWS Sagemakere | DALL-E | ChatGPT | Hugging Face | LangChain | CrewAI
+Multi-Cloud and Infrastructure Management: Kubernetes | Redhat OpenShift | OpenStack | VMWare cloud | Dell InfraBlocks Telco Cloud | AWS EC2 | AWS S3 | Dell Baremetal Orchestrator | Linux | Redhat Cloud Forms | QEMU | KVM | ESXi | Dell Storage (ECS | ScaleIO) | iDrac | OVS | Wireguard | Ansible | Terraform | Scrum | Kanban.
+SRE | DevOps | Observability | System Integrations: Data ETL | ElasticSearch| Kafka | Redis | Prometheus | InfluxDB | AppDynamics | Dynatrace | Grafana | Fluentd | MongoDB | Minio | SQL | Litmus | Gremlin Chaos.
+Full-stack Software Development: Python | FastAPI | JavaScript | NodeJs | Vue.js | Shell | Git | Jenkins | Docker.
+
+EXPERIENCE 
+Dell Technologies, (Canada) | Telco Solutions Engineering	August 2021 - February 2024
+Lead Principal Architect, AIOPS and Cloud Testing
+Led the AIOPS development team, a group of brilliant data scientists, solution architects, and developers building the next generation of AI and cloud automation tools.
+Developed AI/ML apps that utilized machine learning for Dell Telco cloud telemetry insights. The apps enabled time-series data correlation, forecasting, anomaly detection, and automated MLOPS pipeline for training, inference, and serving of AIOPS models. 
+Created chaos engineering toolchain for Dell Open Telco Ecosystem Labs (OTEL). The toolchain increased confidence in Dell Telco Cloud's (Redhat, Windriver) resilience and availability and enabled testing of cloud service performance during disruption.
+Baselined Dell servers power consumption and Dell InfraBlocks telco cloud performance for Redhat and Windriver clouds during multiple load levels.
+Crafted prototypes for cloud fault and performance monitoring and defined requirements for developing Dell's Telco cloud infrastructure automation solution (Dell Baremetal Orchestrator).
+
+Dell Technologies, (Canada) | Telco Professional Services	October 2020 - August 2021
+Subject Matter Expert, AIOPS and Cloud Services
+Led cloud and AIOps consultancy services practice. Aligned Telco cloud services design efforts between product management and engineering to professional services to establish new Telco cloud and AI consultancy services. 
+Spearheaded technical responses to tier-1 Telco providers and established data analytics capabilities using tools and solutions across Dell Technologies portfolio for infrastructure, cloud, storage, automation, data analytics, MLOPS, and AIOPS. This included RFIs, RFP responses, and technical workshops with senior directors and C-Level.
+
+Dell Technologies, (Canada) | Telco Product Management	July 2019 - October 2020
+Lead product management consultant, Telco AIOPS
+Defined Dell Telco NextGenOps strategy for AIOPS and a data management solution portfolio for CSPs integrated with Dell's multi-cloud for 5G and O-RAN use cases.
+Led end-to-end product management of Dell Telco AIOPS solutions, owning product lifecycle from ideation, market requirements, product roadmap, development, sales, services enablement, and GTM strategy.
+Established a strong partner strategy for Telco AIOPS by working with leading technology partners and orchestrating efforts between internal and external engineering teams.
+
+Dell Technologies (United Arab Emirates) | Consulting Services	July 2015 - July 2019
+Senior Architect, Telco Cloud
+Led the architecture and design of Redhat OpenStack telco cloud deployments at top-tier communication service providers in KSA, UAE, Egypt, Bahrain, Germany, UK, and Japan. 
+Contributed to developing open-source OpenStack cloud automation project “dsp-jetpack” (https://github.com/dsp-jetpack/JetPack/tree/JS-16.1.20-11).
+Built early Openstack cloud reference architecture and other blueprints integrating Dell software-defined storage (ECS and ScaleIO) and enabling acceleration features like SR-IOV and CPU pinning on Dell infrastructure.
+Spearheaded integrations of IT, network, and application performance monitoring and observability tools that ensured network operations SLA of 99.99999% at multiple telco operators in KSA, Egypt, UAE, Bahrain, Oman, Qatar, Kuwait, Tunisia, and Turkey.
+Regional subject matter expert in performance analytics and integrated EMC Smarts, watch4net, and other third-party tools like VMWare vRealize Hyperic, Solarwinds, PRTG, Dynatrace, and AppDynamics.
+
+Itlogia, (Kuwait) | Professional Services	December 2011 - June 2015
+Solution Architects Lead, System Integrations
+Integrated IT, network, and application performance monitoring solutions from a broad portfolio of monitoring software solutions from Dell EMC, Compuware, AppDynamics, VMWare, SolarWinds, and other open-source tools. 
+Developed custom integrations and data pipelines for tier 1 telco providers in the Middle East, Africa, and Europe. which were later productized as part of the Dell EMC Service Assurance Suite. integrations included solutions packs for Ericsson Charging System, Huawei u2000, m2000, AppDynamics TPM, Precise TPM, Ericsson IN, Greenplum, VMWare vRealize Hyperic, Process Monitoring, BMC Remedy Adapter for EMC Smarts, HP Service Desk Adapter and Others. 
+Led a team of 15 solutions consultants and developers delivering high-quality data integrations and monitoring solutions professional services. 
+
+EDUCATION
+Master of Science (M.Sc.) in E-Commerce Applications Security	2006 - 2007
+University of Sunderland, United Kingdom
+Advanced Diploma in E-Commerce Applications	2005 - 2006
+Information Technology Institute, Egypt
+Advanced Diploma in Business System Analysis and Design	2003 - 2004
+National Computer Center, Manchester, UK
+Bachelor of Commerce (BCom) in Economics	1999 - 2003
+Alexandria University
+
+CERTIFICATIONS
+2024 - Generative AI with LLM.
+2024 - AWS Cloud Practitioner. (acloud.guru)
+2020 - TensorFlow Developer Professional Certificate.
+2020 - Machine Learning by Stanford University.
+2019 - Kubernetes Application Developer Course (CKAD)
+2017 - VMware VCA Certified.
+
+EVENTS & PUBLICATIONS
+2017 – Speaker at OpenStack days summit in Turkey. Topic: monitoring the cloud.
+Author of the book “Monitoring Cloud Systems, Insights Required for IaaS (Infrastructure as a Service Assurance)”
+INTERESTS
+Innovation & technology, running, boxing, food, music, and travel

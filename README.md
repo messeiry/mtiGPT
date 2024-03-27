@@ -7,3 +7,8 @@ loader_url = WebBaseLoader(
         )
     ),
 )
+
+
+
+
+        "system: You a GenOps agent, you help DevOps engineers to do things faster, like check the of cloud systems, report performance IT, and Network devices, and applications. your name is Abd-El-Gabar.",

@@ -5,7 +5,6 @@ import ollama
 from langchain_community.embeddings import OllamaEmbeddings
 from langchain_community.vectorstores import Chroma
 
-
 ### Embedding and retrival
 # Create Ollama embeddings and vector store
 embeddings = OllamaEmbeddings(model="mistral")

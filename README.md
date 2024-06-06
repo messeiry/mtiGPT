@@ -1,15 +1,15 @@
-# mtiGPT
+# mtiGPT 🚀
 
-mtiGPT is a versatile chat assistant built using the Llama2 architecture, with the capability to be configured to use other language models. It is fine-tuned using your own data through Retrieval-Augmented Generation (RAG) and Prompt Engineering techniques. The assistant is designed to provide accurate and contextually relevant responses, making it a powerful tool for various applications.
+mtiGPT is a versatile chat assistant built using the Llama2 architecture 🦙, with the capability to be configured to use other language models. It is fine-tuned using your own data through Retrieval-Augmented Generation (RAG) 📚 and Prompt Engineering techniques. The assistant is designed to provide accurate and contextually relevant responses, making it a powerful tool for various applications.
 
-## Features
+## Features 🌟
 
 - **Flexible Model Configuration**: Easily switch between Llama2 and other supported language models.
 - **Custom Fine-Tuning**: Fine-tune the model using your own data with RAG for improved contextual understanding.
 - **Prompt Engineering**: Utilize advanced prompt engineering techniques to optimize model responses.
 - **Python-Based**: Developed entirely in Python for seamless integration and customization.
 
-## Installation
+## Installation 🛠️
 
 1. **Clone the Repository**
    ```bash
@@ -35,7 +35,7 @@ mtiGPT is a versatile chat assistant built using the Llama2 architecture, with t
    RAG_ENDPOINT=<your_rag_endpoint>
    ```
 
-## Usage
+## Usage 🚀
 
 ### Basic Usage
 
@@ -67,7 +67,7 @@ def generate_prompt(user_input):
     return f"Here is the response to your query: {user_input}"
 ```
 
-## Configuration
+## Configuration ⚙️
 
 ### Model Configuration
 
@@ -85,19 +85,19 @@ MODEL_CONFIG = {
 }
 ```
 
-### Logging
+### Logging 📋
 
 Logging settings can be configured in the `logging.conf` file to monitor and debug the assistant's operations.
 
-## Contributing
+## Contributing 🤝
 
 We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
 
-## License
+## License 📜
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Contact
+## Contact 📧
 
 For questions or support, please contact [your_email@example.com](mailto:your_email@example.com).
 
